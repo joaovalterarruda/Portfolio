@@ -110,6 +110,10 @@ body{
 #twitter{
     width: 55px;
 }
+#linkedin{
+    width: 55px;
+}
+
 .container{
     background-image: url("../img/IMG_9263.jpg");
     background-size: cover;
